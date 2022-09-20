@@ -6,7 +6,8 @@ Initial architecture (Max --> remote webSocket server --> local renderers)
 
 If you're having issues with the live server or the webSockets not running, try the following:
 
-`npm install kill-port,` `live-server``
+`npm install kill-port` 
+`live-server`
 
 To kill an existing process on a specific port, use: `npx kill-port [port]`
 
